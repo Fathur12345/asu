@@ -5065,7 +5065,7 @@ Link : ${get_resultP.url_audio}
 punten = [{buttonId: 'welcome off', buttonText: {displayText: 'OFF✖️'}, type: 1},{buttonId: 'welcome on', buttonText: {displayText: 'ON✔️'}, type: 1}]
 const btngrass = {
     contentText: `${anu}`,
-    footerText: '*_©Kurz Bot Assistan_*',
+    footerText: '*_©Indah Bot Cans_*',
     buttons: punten,
     headerType: 1
 }
@@ -5286,9 +5286,9 @@ Giliran = @${tty.player1.split('@')[0]}`
 
 /**
 * Thx To:
-KurrXd
-Dcode Denpa
-Yuzzu Kamiyaka
+Pou
+Free Fire
+Pubg
 **/
 
 ///----------( Thx Dah Pake Scriptnya )----------\\\
